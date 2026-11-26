@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- قوس المسجد الذهبي -->
+    <path
+        android:strokeColor="#D4A017"
+        android:strokeWidth="3.5"
+        android:fillColor="#00000000"
+        android:pathData="M35,72 L35,44 Q35,22 54,19 Q73,22 73,44 L73,72" />
+
+    <!-- الخط القاعدي الذهبي -->
+    <path
+        android:strokeColor="#D4A017"
+        android:strokeWidth="3"
+        android:fillColor="#00000000"
+        android:pathData="M31,72 L77,72" />
+
+    <!-- الساق الرئيسية للنبتة -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M54,69 L54,38" />
+
+    <!-- ورقة يسار كبيرة -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,52 Q42,47 39,34 Q49,37 54,49 Z" />
+
+    <!-- ورقة يمين كبيرة -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,52 Q66,47 69,34 Q59,37 54,49 Z" />
+
+    <!-- ورقة يسار صغيرة -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,61 Q44,57 41,46 Q50,49 54,59 Z" />
+
+    <!-- ورقة يمين صغيرة -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,61 Q64,57 67,46 Q58,49 54,59 Z" />
+
+    <!-- الورقة العلوية -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,44 Q50,34 54,26 Q58,34 54,44 Z" />
+
+    <!-- نقطة ذهبية في الأسفل -->
+    <path
+        android:fillColor="#D4A017"
+        android:pathData="M54,66 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+
+</vector>

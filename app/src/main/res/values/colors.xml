@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- الألوان الأساسية - مطابقة للصورة -->
+    <color name="green_dark">#1A5C4A</color>
+    <color name="green_medium">#236B55</color>
+    <color name="green_light">#A8D5C2</color>
+    <color name="gold">#C9973A</color>
+    <color name="gold_light">#F5E6C8</color>
+    <color name="gold_dark">#A67C2A</color>
+    <color name="background">#F7F7F7</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_dark">#1A1A1A</color>
+    <color name="text_gray">#757575</color>
+    <color name="funded_badge_bg">#FFF3DC</color>
+    <color name="nav_bar_bg">#FFFFFF</color>
+    <color name="impact_card_bg">#1A5C4A</color>
+</resources>

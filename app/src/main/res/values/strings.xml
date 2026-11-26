@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">وقف الآبار</string>
+    <string name="register_waqf">🕌 سجّل وقفك</string>
+    <string name="choose_type">اختر نوع الوقف والمنطقة</string>
+    <string name="waqf_type">نوع الوقف</string>
+    <string name="region">المنطقة</string>
+    <string name="amount_dzd">المبلغ (دج)</string>
+    <string name="btn_save">سجّل الوقف</string>
+    <string name="btn_add">➕ سجّل وقف جديد</string>
+    <string name="main_title">وقف الآبار </string>
+    <string name="label_amount">المبلغ المطلوب</string>
+    <string name="btn_donate_now">تبرع الآن ←</string>
+    <string name="main_subtitle">ابنِ لك بيتاً في الجنة</string>
+    <string name="error_amount">⚠️ أدخل المبلغ</string>
+    <string name="success_save">✅ تم تسجيل الوقف!</string>
+</resources>
